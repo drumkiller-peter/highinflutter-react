@@ -1,0 +1,26 @@
+.blogs {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.blogs-item {
+    display: grid;
+}
+
+.blogs-image {
+    border-radius: 12px;
+    margin-bottom: 20px;
+    height: 214px;
+    width: 340px;
+
+}
+
+.blog-paragraph {
+    max-width: 285px;
+
+}
+
+.blog-heading {
+    max-width: 340px;
+}

@@ -1,0 +1,15 @@
+.blog-paragraph {
+    size: 16px;
+    color: var(--grey-text);
+    line-height: 28px;
+    text-justify: auto;
+}
+
+.blog-heading {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    size: 24px;
+    line-height: 38px;
+    text-justify: auto;
+
+}

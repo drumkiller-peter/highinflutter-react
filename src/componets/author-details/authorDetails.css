@@ -1,0 +1,17 @@
+.author-details {
+    margin-top: 20px;
+    display: flex;
+    gap: 16px;
+}
+
+.author-details img {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.name-and-designation {
+    display: grid;
+    gap: 4px;
+}

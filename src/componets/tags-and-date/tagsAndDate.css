@@ -1,0 +1,10 @@
+.tags-and-date {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 30px;
+}
+
+.tags-and-date ul {
+    color: var(--grey-text);
+}
